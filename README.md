@@ -1,141 +1,161 @@
 
-<!-- ===================== HERO SECTION ===================== -->
-
 <div align="center">
 
-<a href="https://github.com/Rj-Inovite/clothing-webiste">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:29231F,100:B89B72&height=220&section=header&text=RADHIKA%20COLLECTION&fontSize=42&fontColor=F5E6CC&fontAlignY=38&desc=STYLE%20THAT%20SPEAKS%20FOR%20ITSELF&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Radhika Collection banner" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5B1828,45:7B263A,100:3D101D&height=240&section=header&text=RADHIKA%20COLLECTION&fontSize=43&fontColor=FFF8ED&fontAlignY=38&desc=ELEGANCE%20IN%20EVERY%20DETAIL&descSize=16&descAlignY=59&descColor=E8D6C0&animation=fadeIn" alt="Radhika Collection maroon banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=23&duration=3000&pause=900&color=C5A880&center=true&vCenter=true&width=700&lines=Discover+Your+Signature+Style;Tradition+Meets+Modern+Fashion;A+Beautiful+Shopping+Experience" alt="Animated brand tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=1000&color=7B263A&center=true&vCenter=true&width=650&lines=Discover+Your+Style.;Tradition+Meets+Modern+Fashion.;Made+for+Every+Beautiful+Moment." alt="Animated fashion tagline"/>
 
-<br/>
-
-<p>
-  <strong>A fashion-focused web experience designed to bring style, elegance, and effortless browsing together.</strong>
-</p>
-
-<br/>
+<br/><br/>
 
 <a href="https://github.com/Rj-Inovite/clothing-webiste">
-  <img src="https://img.shields.io/badge/PROJECT-RADHIKA%20COLLECTION-C5A880?style=for-the-badge&labelColor=111111" alt="Project badge" />
+<img src="https://img.shields.io/badge/PROJECT-RADHIKA%20COLLECTION-7B263A?style=for-the-badge&labelColor=F8F1E7" alt="Project name"/>
 </a>
 <a href="https://github.com/Rj-Inovite/clothing-webiste">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-333333?style=for-the-badge&labelColor=111111" alt="Project status" />
+<img src="https://img.shields.io/badge/PLATFORM-WEB%20APPLICATION-B18A55?style=for-the-badge&labelColor=F8F1E7" alt="Web application"/>
 </a>
 
 <br/><br/>
 
-<a href="#-about-the-project">About</a> •
-<a href="#-features">Features</a> •
-<a href="#-technology-stack">Tech Stack</a> •
-<a href="#-getting-started">Installation</a> •
-<a href="#-project-structure">Structure</a>
+*A thoughtfully designed fashion website with an elegant visual identity and a connected application experience.*
+
+<br/>
+
+[About](#about) · [Features](#features) · [Technology](#technology) · [Installation](#getting-started) · [Roadmap](#roadmap)
 
 </div>
 
 ---
 
-## ✦ About the Project
+<div align="center">
 
-**Radhika Collection** is a fashion and clothing website built to provide visitors with an attractive, organized, and convenient online browsing experience.
+## A LITTLE MORE THAN FASHION
 
-The project combines a fashion-oriented frontend with backend integration to support the website's data and application functionality. Its goal is to create a polished digital storefront where presentation, usability, and maintainable code work together.
+**Style is personal. Elegance is timeless.**
 
-The design direction focuses on a premium visual identity, clear content organization, and a responsive interface that can be explored across different screen sizes.
+</div>
 
-### Project Highlights
+<a id="about"></a>
 
-| Area | Description |
-|---|---|
-| Brand identity | Elegant fashion-inspired visual presentation |
-| User interface | Organized layouts and intuitive navigation |
-| Frontend | Component-based web development |
-| Backend | Server-side integration for supported application features |
-| Responsive design | Adaptable layouts for desktop and mobile screens |
-| Maintainability | A codebase that can be extended with additional features |
+## About the Project
 
----
+**Radhika Collection** is a clothing and fashion website created to present a collection through a clean, appealing, and user-friendly digital experience.
 
-## ✦ Features
+The project brings together a carefully styled frontend and backend integration, with a focus on visual presentation, convenient browsing, and a foundation that can grow as the application evolves.
+
+The visual direction pairs **deep maroon** with **warm off-white** and subtle **antique gold** accents, creating a warm, sophisticated identity inspired by contemporary Indian fashion boutiques.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Fashion-Focused Design
+### Our Visual Identity
 
-A visually appealing interface designed around clothing, style, and product presentation.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Responsive Experience
-
-Layouts designed to adapt to different screen sizes and make browsing more convenient.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Component-Based Frontend
-
-Reusable interface components help keep the frontend organized and easier to maintain.
+- Deep maroon for identity and emphasis
+- Warm ivory for breathing room
+- Antique gold for restrained accents
+- Clean layouts with readable typography
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Backend Integration
+### Our Development Focus
 
-A connected backend supports the application's implemented data and business logic.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Clear Navigation
-
-Structured page sections help visitors discover the website's content more easily.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Extensible Architecture
-
-The project can be expanded with features such as product filtering, authentication, and order management.
+- Maintainable frontend components
+- Responsive page layouts
+- Backend-connected functionality
+- Clear project organization
+- Room for future enhancements
 
 </td>
 </tr>
 </table>
 
-> **Note:** The exact features available depend on the functionality implemented in the current codebase.
-
 ---
 
-## ✦ Visual Preview
+<a id="features"></a>
 
-<div align="center">
-
-<!-- Add screenshots of your actual website below. -->
-<!-- Save screenshots in a folder named screenshots inside the repository. -->
+## Features & Experience
 
 <table>
 <tr>
-<td align="center" width="100%">
-<strong>HOME PAGE</strong><br/><br/>
-<img src="screenshots/homepage.png" alt="Radhika Collection homepage preview" width="100%" />
-<br/><sub>Replace this image path with your actual homepage screenshot.</sub>
+<td width="50%" valign="top">
+
+### 01 / Visual Design
+
+A coordinated color palette and fashion-inspired presentation designed to give the website a distinctive identity.
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / Browsing Experience
+
+Organized content and intuitive navigation to help visitors explore the available website content.
+
 </td>
 </tr>
 <tr>
-<td align="center" width="100%">
-<strong>PRODUCTS / COLLECTION PAGE</strong><br/><br/>
-<img src="screenshots/collection.png" alt="Radhika Collection products preview" width="100%" />
-<br/><sub>Add a screenshot of your collection page if your website has one.</sub>
+<td width="50%" valign="top">
+
+### 03 / Frontend Development
+
+A structured frontend built around the technologies and components used in the project.
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Backend Integration
+
+Backend functionality supports the parts of the application that require server-side processing or data access.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 / Responsive Layout
+
+A layout designed to accommodate different screen sizes, depending on the implementation.
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / Future Growth
+
+A foundation that can be extended with additional shopping, customer, and product-management features.
+
+</td>
+</tr>
+</table>
+
+<sub>Feature descriptions should be adjusted to match what is currently implemented in the repository.</sub>
+
+---
+
+## The Colour Story
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://placehold.co/180x100/5B1828/FFF8ED.png?text=DEEP+MAROON" width="180" alt="Deep maroon swatch"/>
+<br/><strong>Deep Maroon</strong>
+<br/><code>#5B1828</code>
+<br/><sub>Brand identity</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://placehold.co/180x100/F8F1E7/5B1828.png?text=WARM+IVORY" width="180" alt="Warm ivory swatch"/>
+<br/><strong>Warm Ivory</strong>
+<br/><code>#F8F1E7</code>
+<br/><sub>Background & clarity</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://placehold.co/180x100/B18A55/FFFFFF.png?text=ANTIQUE+GOLD" width="180" alt="Antique gold swatch"/>
+<br/><strong>Antique Gold</strong>
+<br/><code>#B18A55</code>
+<br/><sub>Subtle highlights</sub>
 </td>
 </tr>
 </table>
@@ -144,226 +164,180 @@ The project can be expanded with features such as product filtering, authenticat
 
 ---
 
-## ✦ Technology Stack
-
-The badges below describe the likely core frontend tools. Keep only the technologies actually used in your project and add your specific backend, database, and hosting services.
+## Website Preview
 
 <div align="center">
 
-<a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-</a>
-<a href="https://git-scm.com/">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</a>
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+**A glimpse of the actual website**
 
 </div>
 
-### Application Architecture
+> Add screenshots of your running website here. These placeholders use the repository's `screenshots` directory; upload the images before expecting them to display.
 
-```text
-                  RADHIKA COLLECTION
-                          |
-             +------------+------------+
-             |                         |
-       Frontend Layer             Backend Layer
-             |                         |
-      User Interface           Server-side Logic
-             |                         |
-      Pages & Components       Data / API Handling
-             |                         |
-             +------------+------------+
-                          |
-                  Complete Web App
+<div align="center">
+
+| Homepage | Collection Page |
+|:---:|:---:|
+| `screenshots/homepage.png` | `screenshots/collection.png` |
+
+</div>
+
+To display the screenshots, replace the table above with:
+
+```html
+<div align="center">
+  <img src="screenshots/homepage.png" width="90%" alt="Radhika Collection homepage"/>
+  <br/><br/>
+  <img src="screenshots/collection.png" width="90%" alt="Radhika Collection collection page"/>
+</div>
 ```
 
-*This diagram is conceptual. Update it to reflect the actual API, server, and database used in your repository.*
+---
+
+<a id="technology"></a>
+
+## Technology Stack
+
+The following badges are a starting point. Retain only technologies that are actually present in the project.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-5B1828?style=flat-square&logo=react&logoColor=FFF8ED" alt="React"/>
+<img src="https://img.shields.io/badge/JavaScript-5B1828?style=flat-square&logo=javascript&logoColor=FFF8ED" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-5B1828?style=flat-square&logo=html5&logoColor=FFF8ED" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-5B1828?style=flat-square&logo=css3&logoColor=FFF8ED" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Git-B18A55?style=flat-square&logo=git&logoColor=FFFFFF" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-B18A55?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+
+</div>
+
+### Application Flow
+
+```text
+             RADHIKA COLLECTION
+                     |
+          +----------+----------+
+          |                     |
+       FRONTEND               BACKEND
+          |                     |
+   Pages & Components      Server-side Logic
+          |                     |
+   User Interactions       APIs & Data Access
+          |                     |
+          +----------+----------+
+                     |
+             Connected Website
+```
+
+*This is a conceptual overview. Replace the labels with your actual frontend, backend, API, and database technologies.*
 
 ---
 
-## ✦ Getting Started
+<a id="getting-started"></a>
 
-Follow these steps to run the project locally.
+## Getting Started
 
 ### Prerequisites
 
-Make sure you have installed:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) and npm, if required by the project
+- Any additional backend or database dependencies used by the application
 
-- [Node.js](https://nodejs.org/) — use a version supported by your project.
-- npm — included with Node.js.
-- Git — to clone the repository.
-- Any additional backend or database dependencies required by the project.
-
-### 1. Clone the Repository
+### 01. Clone the repository
 
 ```bash
 git clone https://github.com/Rj-Inovite/clothing-webiste.git
-```
-
-### 2. Open the Project Folder
-
-```bash
 cd clothing-webiste
 ```
 
-### 3. Install Dependencies
+### 02. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Configure Environment Variables
+If the backend has a separate `package.json`, install its dependencies in the backend directory as well.
 
-If your application uses environment variables, create a `.env` file using the variable names expected by the application.
+### 03. Configure the environment
 
-Example template:
+Create the required environment file based on the variables expected by your application. Never publish passwords, private API keys, or database credentials.
 
-```env
-# Add the actual variables required by your application.
-# Do not commit real secrets or API keys.
-```
+### 04. Run the application
 
-Do not copy example variable names blindly. Check your project's existing configuration and backend documentation.
-
-### 5. Start the Development Server
-
-For a project configured with a `dev` script:
+For a project configured with a development script:
 
 ```bash
 npm run dev
 ```
 
-If the frontend and backend are separate applications, install dependencies and start each one using the commands specified in their respective `package.json` files.
-
-### 6. Open the Website
-
-Open the local URL printed in your terminal after the development server starts.
+If frontend and backend run separately, start each using the scripts defined in their respective `package.json` files.
 
 ---
 
-## ✦ Project Structure
+## Project Structure
 
-The following is an example structure for a frontend-and-backend application. Adjust it to match the actual folders in your repository.
+Example structure for a web application with separate frontend and backend code. Update this section to match the actual repository.
 
 ```text
 clothing-webiste/
 │
-├── public/                 # Static assets
-├── src/                    # Frontend source code
-│   ├── components/         # Reusable UI components
-│   ├── pages/              # Application pages
-│   ├── assets/             # Images, icons and other assets
-│   ├── App.jsx             # Main application component
-│   └── main.jsx            # Application entry point
+├── public/              # Public assets
+├── src/                 # Frontend source code
+│   ├── components/      # Reusable components
+│   ├── pages/           # Application pages
+│   └── assets/          # Images and other assets
 │
-├── server/                 # Backend code, if separated
-├── screenshots/            # README website screenshots
-├── .gitignore              # Excluded files
-├── package.json            # Scripts and dependencies
-└── README.md               # Project documentation
+├── server/              # Backend, if separated
+├── screenshots/         # Website screenshots
+├── package.json         # Dependencies and scripts
+├── .gitignore           # Files excluded from Git
+└── README.md            # Project documentation
 ```
 
 ---
 
-## ✦ Backend & Data Flow
+<a id="roadmap"></a>
 
-The backend is an important part of this project. Document the actual implementation here so developers can understand how the application works.
+## Future Roadmap
 
-A typical request flow looks like this:
+Potential enhancements for a fashion-shopping website:
 
-1. A visitor interacts with the frontend.
-2. The frontend sends a request to the configured backend when required.
-3. The backend processes the request and communicates with the relevant data source.
-4. The response is returned to the frontend.
-5. The interface displays the result to the visitor.
-
-**Before publishing:** Replace this generic description with the real API routes, database, authentication approach, and backend framework used by the application.
-
----
-
-## ✦ Future Enhancements
-
-Potential improvements for a fashion e-commerce experience include:
-
-- [ ] Product search and category filtering
+- [ ] Product categories and filtering
 - [ ] Product details and image galleries
-- [ ] Shopping cart and checkout workflow
-- [ ] User authentication and account management
-- [ ] Order history and order tracking
-- [ ] Admin dashboard for managing products
-- [ ] Wishlist and saved items
-- [ ] Payment gateway integration
-- [ ] Performance improvements and image optimization
-- [ ] Automated testing and deployment checks
+- [ ] Shopping cart and checkout
+- [ ] Customer authentication
+- [ ] Wishlist functionality
+- [ ] Order tracking and order history
+- [ ] Product management dashboard
+- [ ] Payment integration
+- [ ] Improved automated testing and deployment
 
-These are suggested enhancements, not claims that every feature is already implemented.
-
----
-
-## ✦ Security & Best Practices
-
-- Keep API keys, passwords, and private configuration out of public repositories.
-- Store secrets in environment variables and configure them securely in deployment.
-- Validate user input on the backend.
-- Enforce authorization for protected operations.
-- Avoid exposing sensitive backend or database credentials in frontend code.
-- Optimize images and test responsive layouts before deployment.
-- Verify all external services and production environment settings.
+These items represent possible future work, not a claim that they already exist.
 
 ---
 
-## ✦ Run, Build & Deploy
-
-Check the scripts in `package.json` before using these commands.
-
-```bash
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-
-# Create a production build, if configured
-npm run build
-
-# Preview the production build, if supported
-npm run preview
-```
-
-Deployment instructions depend on the project's framework, backend architecture, and hosting provider. Ensure both frontend and backend services are configured before publishing a production URL.
-
----
-
-## ✦ Connect
+## Developer & Repository
 
 <div align="center">
 
 <a href="https://github.com/Rj-Inovite">
-  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+<img src="https://img.shields.io/badge/GITHUB-RJ--INOVITE-5B1828?style=for-the-badge&logo=github&logoColor=FFF8ED" alt="GitHub profile"/>
 </a>
 
 <br/><br/>
 
-<strong>RADHIKA COLLECTION</strong>
-
-<br/>
-
-<em>Designed around style. Built for the web.</em>
+<a href="https://github.com/Rj-Inovite/clothing-webiste">
+<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-7B263A?style=for-the-badge&logo=github&logoColor=FFF8ED" alt="View source code"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B89B72,50:29231F,100:111111&height=110&section=footer" width="100%" alt="Decorative footer banner" />
+**RADHIKA COLLECTION**
+
+<em>Rooted in elegance. Designed for today.</em>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3D101D,50:7B263A,100:5B1828&height=130&section=footer" alt="Maroon footer"/>
 
 </div>
