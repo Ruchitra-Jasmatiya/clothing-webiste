@@ -11,13 +11,13 @@ const bannerImages = [
 
 const findsImages = [
   { id: 1, name: 'Velvet Shararas', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoiYMB8iAMwpdDUz5XWznF4vDBJmjGhGVceQ&s' },
-  { id: 2, name: 'Silk Kurtis', img: '/images/3.png' },
-  { id: 3, name: 'Bridal Lehengas', img: '/images/8.png' },
-  { id: 4, name: 'Royal Anarkalis', img: '/images/10.png' },
-  { id: 5, name: 'Embroidered Salwar', img: '/images/5.png' },
-  { id: 6, name: 'Designer Sarees', img: '/images/4.png' },
-  { id: 7, name: 'Traditional Dupattas', img: '/images/2.png' },
-  { id: 8, name: 'Festive Blouses', img: '/images/12.png' },
+  { id: 2, name: 'Silk Kurtis', img: '/shop/3.webp' },
+  { id: 3, name: 'Bridal Lehengas', img: '/shop/8.webp' },
+  { id: 4, name: 'Royal Anarkalis', img: '/shop/10.webp' },
+  { id: 5, name: 'Embroidered Salwar', img: '/shop/5.webp' },
+  { id: 6, name: 'Designer Sarees', img: '/shop/4.webp' },
+  { id: 7, name: 'Traditional Dupattas', img: '/shop/2.webp' },
+  { id: 8, name: 'Festive Blouses', img: '/shop/12.webp' },
 ];
 
 // "Weaving Dreams" Slideshow Images

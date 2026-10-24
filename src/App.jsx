@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import React, { useState, lazy, Suspense } from 'react';
+import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import Navbar from './components/navbar.jsx';
 import Home from './components/home.jsx';
 import Shop from './components/shop.jsx';
@@ -11,6 +11,34 @@ import './components/home.css';
 import './components/shop.css';
 import './components/navbar.css';
 import './components/footer.css';
+
+// Owner page (/admin) is loaded only when opened, so the shop stays light.
+const Admin = lazy(() => import('./components/admin.jsx'));
+
+function Layout({ cart, addToCart, toggleCart }) {
+  const { pathname } = useLocation();
+  if (pathname.startsWith('/admin')) {
+    return (
+      <Suspense fallback={null}>
+        <Admin />
+      </Suspense>
+    );
+  }
+  return (
+    <div className="App">
+      <Navbar cartCount={cart.length} toggleCart={toggleCart} />
+      <main>
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/shop" element={<Shop addToCart={addToCart} />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </main>
+      <Footer />
+    </div>
+  );
+}
 
 function App() {
   const [cart, setCart] = useState([]);
@@ -26,18 +54,7 @@ function App() {
 
   return (
     <Router>
-      <div className="App">
-        <Navbar cartCount={cart.length} toggleCart={toggleCart} />
-        <main>
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/shop" element={<Shop addToCart={addToCart} />} />
-            <Route path="/contact" element={<Contact />} />
-            <Route path="/about" element={<About />} />
-          </Routes>
-        </main>
-        <Footer />
-      </div>
+      <Layout cart={cart} addToCart={addToCart} toggleCart={toggleCart} />
     </Router>
   );
 }
